@@ -13,4 +13,4 @@ MPCF/datasets
 /路径融合权重折线图.py
 /路径融合权重雷达图.py
 __pycache__/
-/MPCF/src/bert/model.safetensors
+/MPCF/src/bert

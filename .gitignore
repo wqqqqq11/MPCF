@@ -12,5 +12,5 @@ MPCF/datasets
 /mosi_mcl_mcf_t_statistic.pth
 /路径融合权重折线图.py
 /路径融合权重雷达图.py
-__pycache__
+__pycache__/
 /MPCF/src/bert/model.safetensors

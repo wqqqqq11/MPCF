@@ -1,0 +1,30 @@
+name: MCL
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pytorch=2.2.2
+  - torchvision=0.17.2
+  - torchaudio=2.2.2
+  - pytorch-cuda=12.1  # CUDA 12.1 对应的 PyTorch 官方包
+  - cudatoolkit=11.8
+  - numpy
+  - spacy==3.3.1
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - ipython
+  - jupyter
+  - tqdm
+  - pillow
+  - requests
+  - pip:
+      - transformers==4.40.0
+      - allennlp==2.10.1
+      - spacy==3.7.4
+      - tensorboard
+      - torch-geometric

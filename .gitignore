@@ -1,5 +1,5 @@
 MPCF/datasets
-/pre_trained_models/
+/pre_trained_models
 /.idea
 /attention_flow_analysis
 /concept_interpretability_analysis
@@ -12,3 +12,5 @@ MPCF/datasets
 /mosi_mcl_mcf_t_statistic.pth
 /路径融合权重折线图.py
 /路径融合权重雷达图.py
+__pycache__
+/MPCF/src/bert/model.safetensors
